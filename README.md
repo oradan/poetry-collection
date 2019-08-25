@@ -9,3 +9,6 @@
  
  
  1: create a new branch "lucianblaga" add a new file in authors dir and in this file add a new poem.
+ 2: commit changes 
+ 3: merge lucianblaga to master
+ 
