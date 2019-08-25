@@ -28,4 +28,8 @@
  
  10: merge master into lucianblaga
  
+ 11: simulate that you write some experimental code and leave it for leater so exercise the detached head mode
+ 
+ 
+ 
  
