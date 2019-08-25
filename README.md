@@ -16,4 +16,16 @@
  
  4: in the master update the glossery.txt and the main.txt files
  
+ 5: checkout lucianblaga
+ 
+ 6: edit the main.txt file with some dummy text
+ 
+ 7: checkout master
+ 
+ 8: merege lucianblaga into master
+ 
+ 9: resolve conflicts 
+ 
+ 10: merge master into lucianblaga
+ 
  
