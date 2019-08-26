@@ -30,6 +30,14 @@
  
  11: simulate that you write some experimental code and leave it for leater so exercise the detached head mode
  
+ 12: add new branch copyright 
  
+ 13 checkout copyright
+ 
+ 14: add a new file copyright
+ 
+ 15: unstage copyright.txt (git rm --cached)
+ 
+ 16 delete copyright.txt
  
  
